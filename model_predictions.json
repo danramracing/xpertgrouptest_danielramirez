@@ -1,0 +1,2928 @@
+{
+  "LinearRegression": {
+    "rmse": 54.217805327287586,
+    "predictions": [
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 1,
+        "Material_id": 5,
+        "Price": 155.0,
+        "prediction": 107.12957968555
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 4,
+        "Price": 185.0,
+        "prediction": 107.5499265735327
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 3,
+        "Size_id": 5,
+        "Material_id": 6,
+        "Price": 33.0,
+        "prediction": 109.16718343325941
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 4,
+        "Size_id": 5,
+        "Material_id": 2,
+        "Price": 46.0,
+        "prediction": 109.48896476506269
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 2,
+        "Price": 120.0,
+        "prediction": 108.77850697173322
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 5,
+        "Price": 151.0,
+        "prediction": 110.42861901685308
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 6,
+        "Material_id": 5,
+        "Price": 112.0,
+        "prediction": 110.88182109022893
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 1,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 125.0,
+        "prediction": 107.66560478942256
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 6,
+        "Price": 49.0,
+        "prediction": 108.50669348503351
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 2,
+        "Size_id": 6,
+        "Material_id": 2,
+        "Price": 198.0,
+        "prediction": 108.76315936569604
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 2,
+        "Size_id": 6,
+        "Material_id": 6,
+        "Price": 115.0,
+        "prediction": 108.89458010726861
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 3,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 46.0,
+        "prediction": 108.79561963144364
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 112.0,
+        "prediction": 109.0252110095501
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 6,
+        "Size_id": 1,
+        "Material_id": 3,
+        "Price": 38.0,
+        "prediction": 108.66938973341705
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 3,
+        "Color_id": 1,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 42.0,
+        "prediction": 107.68192760984188
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 3,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 2,
+        "Price": 40.0,
+        "prediction": 107.39221162414067
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 3,
+        "Color_id": 4,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 162.0,
+        "prediction": 107.97643951944355
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 4,
+        "Color_id": 1,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 177.0,
+        "prediction": 107.60606047656441
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 4,
+        "Color_id": 4,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 95.0,
+        "prediction": 107.76915164459349
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 4,
+        "Color_id": 4,
+        "Size_id": 6,
+        "Material_id": 3,
+        "Price": 184.0,
+        "prediction": 109.28784294814076
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 4,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 161.0,
+        "prediction": 108.5773851548113
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 4,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 4,
+        "Price": 104.0,
+        "prediction": 108.61024034020444
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 5,
+        "Color_id": 3,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 86.0,
+        "prediction": 107.78586938465837
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 5,
+        "Color_id": 3,
+        "Size_id": 5,
+        "Material_id": 2,
+        "Price": 179.0,
+        "prediction": 108.20661119228662
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 6,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 3,
+        "Price": 42.0,
+        "prediction": 106.48063201388928
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 6,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 121.0,
+        "prediction": 107.80777796826924
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 6,
+        "Color_id": 6,
+        "Size_id": 3,
+        "Material_id": 1,
+        "Price": 39.0,
+        "prediction": 108.55030110770075
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 1,
+        "Color_id": 1,
+        "Size_id": 4,
+        "Material_id": 2,
+        "Price": 48.0,
+        "prediction": 106.75333146891789
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 2,
+        "Price": 143.0,
+        "prediction": 107.59442016452886
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 1,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 146.0,
+        "prediction": 108.21110832557933
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 1,
+        "Material_id": 6,
+        "Price": 158.0,
+        "prediction": 107.9871027106644
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 2,
+        "Color_id": 3,
+        "Size_id": 2,
+        "Material_id": 5,
+        "Price": 128.0,
+        "prediction": 106.77524005252876
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 3,
+        "Material_id": 2,
+        "Price": 104.0,
+        "prediction": 107.51776319196028
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 2,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 27.0,
+        "prediction": 108.84530406598577
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 2,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 121.0,
+        "prediction": 109.29850613936162
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 3,
+        "Color_id": 3,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 192.0,
+        "prediction": 107.69875685899088
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 4,
+        "Color_id": 1,
+        "Size_id": 5,
+        "Material_id": 6,
+        "Price": 164.0,
+        "prediction": 106.65077520817542
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 29.0,
+        "prediction": 106.55181473235044
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 1,
+        "Price": 151.0,
+        "prediction": 105.84135693902097
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 2,
+        "Material_id": 1,
+        "Price": 147.0,
+        "prediction": 106.22924356125608
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 71.0,
+        "prediction": 107.3929034279614
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 6,
+        "Material_id": 1,
+        "Price": 50.0,
+        "prediction": 107.7807900501965
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 5,
+        "Color_id": 3,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 125.0,
+        "prediction": 106.79772893087623
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 5,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 73.0,
+        "prediction": 106.12012632293991
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 5,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 4,
+        "Price": 128.0,
+        "prediction": 106.1858366937262
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 5,
+        "Color_id": 4,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 193.0,
+        "prediction": 107.73738318266662
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 1,
+        "Material_id": 6,
+        "Price": 43.0,
+        "prediction": 106.70474913788833
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 6,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 124.0,
+        "prediction": 106.52512560488543
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 6,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 4,
+        "Price": 22.0,
+        "prediction": 105.52534674550029
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 6,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 1,
+        "Price": 90.0,
+        "prediction": 108.27261844724809
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 2,
+        "Price": 128.0,
+        "prediction": 105.8305064662765
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 2,
+        "Price": 171.0,
+        "prediction": 106.60627971074672
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 1,
+        "Color_id": 4,
+        "Size_id": 5,
+        "Material_id": 3,
+        "Price": 133.0,
+        "prediction": 107.54553904289156
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 1,
+        "Material_id": 5,
+        "Price": 60.0,
+        "prediction": 106.96610707148913
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 21.0,
+        "prediction": 105.75384949370795
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 2,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 4,
+        "Price": 101.0,
+        "prediction": 107.04853518234029
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 3,
+        "Color_id": 1,
+        "Size_id": 5,
+        "Material_id": 3,
+        "Price": 145.0,
+        "prediction": 105.77135707306391
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 3,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 5,
+        "Price": 127.0,
+        "prediction": 106.87410249288338
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 1,
+        "Price": 124.0,
+        "prediction": 105.1757876563332
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 77.0,
+        "prediction": 106.01687635194415
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 4,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 6,
+        "Price": 45.0,
+        "prediction": 106.69966980342647
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 4,
+        "Color_id": 5,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 131.0,
+        "prediction": 107.08755642566157
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 4,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 92.0,
+        "prediction": 107.86293475048625
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 5,
+        "Color_id": 1,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 167.0,
+        "prediction": 105.38963650875694
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 5,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 3,
+        "Price": 86.0,
+        "prediction": 104.71163898117507
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 5,
+        "Color_id": 4,
+        "Size_id": 2,
+        "Material_id": 1,
+        "Price": 111.0,
+        "prediction": 105.48701730599974
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 5,
+        "Color_id": 6,
+        "Size_id": 2,
+        "Material_id": 5,
+        "Price": 63.0,
+        "prediction": 106.52484219432401
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 6,
+        "Color_id": 2,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 120.0,
+        "prediction": 105.1490985288682
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 6,
+        "Color_id": 3,
+        "Size_id": 2,
+        "Material_id": 5,
+        "Price": 144.0,
+        "prediction": 104.95794809934641
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 6,
+        "Color_id": 3,
+        "Size_id": 4,
+        "Material_id": 3,
+        "Price": 73.0,
+        "prediction": 105.66801097303033
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 6,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 6,
+        "Price": 90.0,
+        "prediction": 105.05611873588029
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 6,
+        "Color_id": 4,
+        "Size_id": 5,
+        "Material_id": 6,
+        "Price": 186.0,
+        "prediction": 106.60766522482072
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 6,
+        "Color_id": 6,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 127.0,
+        "prediction": 106.28469913408081
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 1,
+        "Size_id": 4,
+        "Material_id": 3,
+        "Price": 159.0,
+        "prediction": 104.80990574674678
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 6,
+        "Material_id": 4,
+        "Price": 71.0,
+        "prediction": 106.07173624998597
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 3,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 50.0,
+        "prediction": 105.32842327126338
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 4,
+        "Size_id": 2,
+        "Material_id": 5,
+        "Price": 35.0,
+        "prediction": 105.4594490931904
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 93.0,
+        "prediction": 107.04345584787842
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 3,
+        "Material_id": 1,
+        "Price": 183.0,
+        "prediction": 106.62231912060463
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 199.0,
+        "prediction": 107.49665792125427
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 2,
+        "Color_id": 1,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 94.0,
+        "prediction": 103.40610281979826
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 2,
+        "Color_id": 1,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 125.0,
+        "prediction": 103.40610281979826
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 6,
+        "Material_id": 6,
+        "Price": 158.0,
+        "prediction": 106.83656289267391
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 3,
+        "Color_id": 1,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 141.0,
+        "prediction": 103.1988149449482
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 3,
+        "Color_id": 2,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 108.0,
+        "prediction": 103.65201701832406
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 3,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 4,
+        "Price": 65.0,
+        "prediction": 104.49350063358055
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 3,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 67.0,
+        "prediction": 106.53031454199888
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 1,
+        "Size_id": 2,
+        "Material_id": 1,
+        "Price": 152.0,
+        "prediction": 103.34655850694011
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 1,
+        "Material_id": 3,
+        "Price": 35.0,
+        "prediction": 103.47758432886714
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 1,
+        "Material_id": 5,
+        "Price": 189.0,
+        "prediction": 103.54329469965343
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 151.0,
+        "prediction": 104.25335757333735
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 4,
+        "Material_id": 5,
+        "Price": 30.0,
+        "prediction": 105.1601566397346
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 6,
+        "Material_id": 2,
+        "Price": 63.0,
+        "prediction": 105.83736432802537
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 4,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 157.0,
+        "prediction": 105.48193797153787
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 187.0,
+        "prediction": 105.25793235662294
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 6,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 183.0,
+        "prediction": 106.06616586684075
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 5,
+        "Color_id": 1,
+        "Size_id": 1,
+        "Material_id": 1,
+        "Price": 78.0,
+        "prediction": 102.75138400985495
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 5,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 47.0,
+        "prediction": 104.8875533137438
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 42.0,
+        "prediction": 105.05064448177288
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 46.0,
+        "prediction": 105.40567591861485
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 1,
+        "Price": 62.0,
+        "prediction": 106.50362541453387
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 5,
+        "Color_id": 6,
+        "Size_id": 2,
+        "Material_id": 5,
+        "Price": 126.0,
+        "prediction": 105.53670174054187
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 6,
+        "Color_id": 1,
+        "Size_id": 3,
+        "Material_id": 5,
+        "Price": 41.0,
+        "prediction": 103.45129012104768
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 6,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 5,
+        "Price": 81.0,
+        "prediction": 103.90449219442353
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 6,
+        "Color_id": 2,
+        "Size_id": 6,
+        "Material_id": 4,
+        "Price": 148.0,
+        "prediction": 105.0352968757357
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 6,
+        "Color_id": 3,
+        "Size_id": 3,
+        "Material_id": 5,
+        "Price": 17.0,
+        "prediction": 104.35769426779937
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 6,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 5,
+        "Price": 33.0,
+        "prediction": 104.87621179231597
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 164.0,
+        "prediction": 104.37353292251993
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 2,
+        "Price": 108.0,
+        "prediction": 104.62999880318246
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 1,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 1,
+        "Price": 180.0,
+        "prediction": 103.49879920222473
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 177.0,
+        "prediction": 106.54137265286528
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 195.0,
+        "prediction": 106.54137265286528
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 2,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 44.0,
+        "prediction": 103.32436651276782
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 6,
+        "Material_id": 4,
+        "Price": 168.0,
+        "prediction": 105.7827120681055
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 2,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 72.0,
+        "prediction": 105.7494619630668
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 2,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 5,
+        "Price": 48.0,
+        "prediction": 106.26876932687448
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 2,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 102.0,
+        "prediction": 106.30122959262208
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 3,
+        "Color_id": 3,
+        "Size_id": 3,
+        "Material_id": 5,
+        "Price": 35.0,
+        "prediction": 103.99141743856741
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 3,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 198.0,
+        "prediction": 104.47707977769086
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 3,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 6,
+        "Price": 150.0,
+        "prediction": 106.15965208855832
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 4,
+        "Color_id": 1,
+        "Size_id": 1,
+        "Material_id": 4,
+        "Price": 101.0,
+        "prediction": 102.0690969871023
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 91.0,
+        "prediction": 104.07384554941858
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 4,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 107.0,
+        "prediction": 104.62482333968276
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 5,
+        "Color_id": 2,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 82.0,
+        "prediction": 103.5443814231197
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 5,
+        "Color_id": 3,
+        "Size_id": 6,
+        "Material_id": 1,
+        "Price": 150.0,
+        "prediction": 104.60908081400004
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 92.0,
+        "prediction": 105.12759833851663
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 1,
+        "Price": 188.0,
+        "prediction": 105.51548496075175
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 5,
+        "Color_id": 6,
+        "Size_id": 3,
+        "Material_id": 1,
+        "Price": 36.0,
+        "prediction": 104.80502716742228
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 5,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 3,
+        "Price": 177.0,
+        "prediction": 105.64651078267877
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 6,
+        "Color_id": 1,
+        "Size_id": 6,
+        "Material_id": 4,
+        "Price": 17.0,
+        "prediction": 103.59395434857772
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 6,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 6,
+        "Price": 196.0,
+        "prediction": 103.07983782831603
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 4,
+        "Price": 71.0,
+        "prediction": 102.9317954757164
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 3,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 96.0,
+        "prediction": 103.83859454211364
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 175.0,
+        "prediction": 102.99671600721159
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 4,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 190.0,
+        "prediction": 103.80534443707495
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 195.0,
+        "prediction": 105.10003012570729
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 6,
+        "Price": 87.0,
+        "prediction": 105.13288531110044
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 3,
+        "Price": 168.0,
+        "prediction": 105.48752182829686
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 2,
+        "Size_id": 4,
+        "Material_id": 2,
+        "Price": 53.0,
+        "prediction": 103.04668385231516
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 2,
+        "Size_id": 4,
+        "Material_id": 4,
+        "Price": 72.0,
+        "prediction": 103.11239422310145
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 1,
+        "Price": 44.0,
+        "prediction": 102.75657294696839
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 110.0,
+        "prediction": 104.08450874063944
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 1,
+        "Price": 67.0,
+        "prediction": 103.59766164257935
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 5,
+        "Price": 196.0,
+        "prediction": 105.28062887309235
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 6,
+        "Size_id": 1,
+        "Material_id": 3,
+        "Price": 97.0,
+        "prediction": 103.72868746450638
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 3,
+        "Color_id": 1,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 13.0,
+        "prediction": 102.35333871869611
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 3,
+        "Color_id": 2,
+        "Size_id": 6,
+        "Material_id": 4,
+        "Price": 110.0,
+        "prediction": 103.6808795927216
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 3,
+        "Color_id": 3,
+        "Size_id": 5,
+        "Material_id": 3,
+        "Price": 72.0,
+        "prediction": 103.7133398584692
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 3,
+        "Color_id": 6,
+        "Size_id": 1,
+        "Material_id": 5,
+        "Price": 10.0,
+        "prediction": 103.58710996044262
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 4,
+        "Color_id": 1,
+        "Size_id": 1,
+        "Material_id": 3,
+        "Price": 104.0,
+        "prediction": 101.04810134792703
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 4,
+        "Color_id": 1,
+        "Size_id": 3,
+        "Material_id": 1,
+        "Price": 89.0,
+        "prediction": 101.75816422161095
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 2,
+        "Material_id": 3,
+        "Price": 176.0,
+        "prediction": 101.88919004353798
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 6,
+        "Material_id": 6,
+        "Price": 51.0,
+        "prediction": 103.53930208865783
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 4,
+        "Color_id": 4,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 158.0,
+        "prediction": 103.99210924238814
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 5,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 158.0,
+        "prediction": 102.77985166460695
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 5,
+        "Color_id": 4,
+        "Size_id": 4,
+        "Material_id": 4,
+        "Price": 177.0,
+        "prediction": 103.39693474530299
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 3,
+        "Price": 188.0,
+        "prediction": 104.20516825552079
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 3,
+        "Price": 61.0,
+        "prediction": 104.59305487775589
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 6,
+        "Color_id": 1,
+        "Size_id": 6,
+        "Material_id": 5,
+        "Price": 45.0,
+        "prediction": 102.63866908018873
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 6,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 134.0,
+        "prediction": 104.06359075145703
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 6,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 1,
+        "Price": 187.0,
+        "prediction": 104.32005663211956
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 6,
+        "Color_id": 6,
+        "Size_id": 6,
+        "Material_id": 4,
+        "Price": 42.0,
+        "prediction": 104.87182426167483
+      }
+    ]
+  },
+  "RandomForest": {
+    "rmse": 55.104798028819,
+    "predictions": [
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 1,
+        "Material_id": 5,
+        "Price": 155.0,
+        "prediction": 101.17533739027043
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 4,
+        "Price": 185.0,
+        "prediction": 106.35709310348759
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 3,
+        "Size_id": 5,
+        "Material_id": 6,
+        "Price": 33.0,
+        "prediction": 111.23386586633258
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 4,
+        "Size_id": 5,
+        "Material_id": 2,
+        "Price": 46.0,
+        "prediction": 109.98263480782448
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 2,
+        "Price": 120.0,
+        "prediction": 104.41881156031259
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 5,
+        "Price": 151.0,
+        "prediction": 122.45841919554542
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 6,
+        "Material_id": 5,
+        "Price": 112.0,
+        "prediction": 116.21163062174924
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 1,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 125.0,
+        "prediction": 105.72696856028608
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 6,
+        "Price": 49.0,
+        "prediction": 112.15634910329129
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 2,
+        "Size_id": 6,
+        "Material_id": 2,
+        "Price": 198.0,
+        "prediction": 106.51908355048211
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 2,
+        "Size_id": 6,
+        "Material_id": 6,
+        "Price": 115.0,
+        "prediction": 111.93437249991268
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 3,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 46.0,
+        "prediction": 110.4282585748628
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 112.0,
+        "prediction": 104.5244779119217
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 2,
+        "Color_id": 6,
+        "Size_id": 1,
+        "Material_id": 3,
+        "Price": 38.0,
+        "prediction": 92.99811729641118
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 3,
+        "Color_id": 1,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 42.0,
+        "prediction": 105.46922624390399
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 3,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 2,
+        "Price": 40.0,
+        "prediction": 100.10400194855713
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 3,
+        "Color_id": 4,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 162.0,
+        "prediction": 98.51974550293068
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 4,
+        "Color_id": 1,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 177.0,
+        "prediction": 104.22697171709149
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 4,
+        "Color_id": 4,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 95.0,
+        "prediction": 100.10314760279707
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 4,
+        "Color_id": 4,
+        "Size_id": 6,
+        "Material_id": 3,
+        "Price": 184.0,
+        "prediction": 101.32148985222588
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 4,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 161.0,
+        "prediction": 103.3328147558439
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 4,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 4,
+        "Price": 104.0,
+        "prediction": 103.99877774337683
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 5,
+        "Color_id": 3,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 86.0,
+        "prediction": 110.52398989784201
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 5,
+        "Color_id": 3,
+        "Size_id": 5,
+        "Material_id": 2,
+        "Price": 179.0,
+        "prediction": 105.53710814179279
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 6,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 3,
+        "Price": 42.0,
+        "prediction": 117.68771066971162
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 6,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 121.0,
+        "prediction": 109.99481085755527
+      },
+      {
+        "Brand_id": 1,
+        "Category_id": 6,
+        "Color_id": 6,
+        "Size_id": 3,
+        "Material_id": 1,
+        "Price": 39.0,
+        "prediction": 107.72616574958545
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 1,
+        "Color_id": 1,
+        "Size_id": 4,
+        "Material_id": 2,
+        "Price": 48.0,
+        "prediction": 110.94734900174474
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 2,
+        "Price": 143.0,
+        "prediction": 116.0463769477818
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 1,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 146.0,
+        "prediction": 114.95519936805684
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 1,
+        "Material_id": 6,
+        "Price": 158.0,
+        "prediction": 108.42453622962046
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 2,
+        "Color_id": 3,
+        "Size_id": 2,
+        "Material_id": 5,
+        "Price": 128.0,
+        "prediction": 105.13448355429155
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 3,
+        "Material_id": 2,
+        "Price": 104.0,
+        "prediction": 110.77039863325942
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 2,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 27.0,
+        "prediction": 114.59209650802543
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 2,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 121.0,
+        "prediction": 112.12058232952386
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 3,
+        "Color_id": 3,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 192.0,
+        "prediction": 103.06908574490008
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 4,
+        "Color_id": 1,
+        "Size_id": 5,
+        "Material_id": 6,
+        "Price": 164.0,
+        "prediction": 106.92902353463838
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 29.0,
+        "prediction": 115.59425864569107
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 1,
+        "Price": 151.0,
+        "prediction": 111.75385039757877
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 2,
+        "Material_id": 1,
+        "Price": 147.0,
+        "prediction": 111.61115484398348
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 71.0,
+        "prediction": 115.07520769858975
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 6,
+        "Material_id": 1,
+        "Price": 50.0,
+        "prediction": 111.15172480917059
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 5,
+        "Color_id": 3,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 125.0,
+        "prediction": 121.04350526429968
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 5,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 73.0,
+        "prediction": 117.124116064606
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 5,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 4,
+        "Price": 128.0,
+        "prediction": 115.77220791356706
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 5,
+        "Color_id": 4,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 193.0,
+        "prediction": 106.2721338071088
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 1,
+        "Material_id": 6,
+        "Price": 43.0,
+        "prediction": 119.10320616954206
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 6,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 124.0,
+        "prediction": 125.63155939780029
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 6,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 4,
+        "Price": 22.0,
+        "prediction": 118.07534844010449
+      },
+      {
+        "Brand_id": 2,
+        "Category_id": 6,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 1,
+        "Price": 90.0,
+        "prediction": 127.83569080114572
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 2,
+        "Price": 128.0,
+        "prediction": 103.66894300138733
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 2,
+        "Price": 171.0,
+        "prediction": 107.71978838823729
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 1,
+        "Color_id": 4,
+        "Size_id": 5,
+        "Material_id": 3,
+        "Price": 133.0,
+        "prediction": 108.6999389165984
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 1,
+        "Material_id": 5,
+        "Price": 60.0,
+        "prediction": 95.80393360788781
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 21.0,
+        "prediction": 105.12464441308805
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 2,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 4,
+        "Price": 101.0,
+        "prediction": 109.34625134748349
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 3,
+        "Color_id": 1,
+        "Size_id": 5,
+        "Material_id": 3,
+        "Price": 145.0,
+        "prediction": 98.78453709179091
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 3,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 5,
+        "Price": 127.0,
+        "prediction": 107.24614928036515
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 1,
+        "Price": 124.0,
+        "prediction": 98.66263123502719
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 77.0,
+        "prediction": 99.68798310451542
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 4,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 6,
+        "Price": 45.0,
+        "prediction": 110.83960199540154
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 4,
+        "Color_id": 5,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 131.0,
+        "prediction": 111.36707802869903
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 4,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 92.0,
+        "prediction": 105.98270582630701
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 5,
+        "Color_id": 1,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 167.0,
+        "prediction": 98.28736611486208
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 5,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 3,
+        "Price": 86.0,
+        "prediction": 108.65399283360102
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 5,
+        "Color_id": 4,
+        "Size_id": 2,
+        "Material_id": 1,
+        "Price": 111.0,
+        "prediction": 100.67245064958328
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 5,
+        "Color_id": 6,
+        "Size_id": 2,
+        "Material_id": 5,
+        "Price": 63.0,
+        "prediction": 104.04032761070141
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 6,
+        "Color_id": 2,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 120.0,
+        "prediction": 98.76714026199315
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 6,
+        "Color_id": 3,
+        "Size_id": 2,
+        "Material_id": 5,
+        "Price": 144.0,
+        "prediction": 105.1670167468864
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 6,
+        "Color_id": 3,
+        "Size_id": 4,
+        "Material_id": 3,
+        "Price": 73.0,
+        "prediction": 97.860642611031
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 6,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 6,
+        "Price": 90.0,
+        "prediction": 107.45250213993968
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 6,
+        "Color_id": 4,
+        "Size_id": 5,
+        "Material_id": 6,
+        "Price": 186.0,
+        "prediction": 106.10026993937137
+      },
+      {
+        "Brand_id": 3,
+        "Category_id": 6,
+        "Color_id": 6,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 127.0,
+        "prediction": 105.92982613275228
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 1,
+        "Size_id": 4,
+        "Material_id": 3,
+        "Price": 159.0,
+        "prediction": 100.5201186460755
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 6,
+        "Material_id": 4,
+        "Price": 71.0,
+        "prediction": 115.72370124191636
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 3,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 50.0,
+        "prediction": 106.76753219697143
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 4,
+        "Size_id": 2,
+        "Material_id": 5,
+        "Price": 35.0,
+        "prediction": 109.42649868333953
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 93.0,
+        "prediction": 113.87855394712251
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 3,
+        "Material_id": 1,
+        "Price": 183.0,
+        "prediction": 104.16112435927259
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 199.0,
+        "prediction": 110.34874479333632
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 2,
+        "Color_id": 1,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 94.0,
+        "prediction": 108.7139888006634
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 2,
+        "Color_id": 1,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 125.0,
+        "prediction": 108.7139888006634
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 6,
+        "Material_id": 6,
+        "Price": 158.0,
+        "prediction": 109.15788561920672
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 3,
+        "Color_id": 1,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 141.0,
+        "prediction": 113.60442225603795
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 3,
+        "Color_id": 2,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 108.0,
+        "prediction": 111.73641037756958
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 3,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 4,
+        "Price": 65.0,
+        "prediction": 102.8994870751684
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 3,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 67.0,
+        "prediction": 115.0285226865373
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 1,
+        "Size_id": 2,
+        "Material_id": 1,
+        "Price": 152.0,
+        "prediction": 103.54957983896136
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 1,
+        "Material_id": 3,
+        "Price": 35.0,
+        "prediction": 106.65883082510379
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 1,
+        "Material_id": 5,
+        "Price": 189.0,
+        "prediction": 106.1197059154041
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 151.0,
+        "prediction": 105.58170734999108
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 4,
+        "Material_id": 5,
+        "Price": 30.0,
+        "prediction": 101.98373117148842
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 3,
+        "Size_id": 6,
+        "Material_id": 2,
+        "Price": 63.0,
+        "prediction": 106.10046561140533
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 4,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 157.0,
+        "prediction": 103.56597138662758
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 187.0,
+        "prediction": 106.92098183415712
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 4,
+        "Color_id": 6,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 183.0,
+        "prediction": 108.25542747621265
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 5,
+        "Color_id": 1,
+        "Size_id": 1,
+        "Material_id": 1,
+        "Price": 78.0,
+        "prediction": 109.91904908967963
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 5,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 47.0,
+        "prediction": 103.44211791417771
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 42.0,
+        "prediction": 108.94338184213332
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 46.0,
+        "prediction": 111.02911467974089
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 1,
+        "Price": 62.0,
+        "prediction": 106.69976645970542
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 5,
+        "Color_id": 6,
+        "Size_id": 2,
+        "Material_id": 5,
+        "Price": 126.0,
+        "prediction": 106.06517410592664
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 6,
+        "Color_id": 1,
+        "Size_id": 3,
+        "Material_id": 5,
+        "Price": 41.0,
+        "prediction": 104.55865534257634
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 6,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 5,
+        "Price": 81.0,
+        "prediction": 100.58905468045063
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 6,
+        "Color_id": 2,
+        "Size_id": 6,
+        "Material_id": 4,
+        "Price": 148.0,
+        "prediction": 97.77524746670125
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 6,
+        "Color_id": 3,
+        "Size_id": 3,
+        "Material_id": 5,
+        "Price": 17.0,
+        "prediction": 103.57298166318738
+      },
+      {
+        "Brand_id": 4,
+        "Category_id": 6,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 5,
+        "Price": 33.0,
+        "prediction": 110.09445661030671
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 164.0,
+        "prediction": 104.51170460831356
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 2,
+        "Price": 108.0,
+        "prediction": 111.01139629103265
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 1,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 1,
+        "Price": 180.0,
+        "prediction": 104.63595932795934
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 177.0,
+        "prediction": 104.48643851786434
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 195.0,
+        "prediction": 104.48643851786434
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 2,
+        "Color_id": 3,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 44.0,
+        "prediction": 104.86334582410791
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 6,
+        "Material_id": 4,
+        "Price": 168.0,
+        "prediction": 100.56745873960661
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 2,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 72.0,
+        "prediction": 111.08503827131742
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 2,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 5,
+        "Price": 48.0,
+        "prediction": 109.37115517177938
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 2,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 102.0,
+        "prediction": 98.95024915317556
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 3,
+        "Color_id": 3,
+        "Size_id": 3,
+        "Material_id": 5,
+        "Price": 35.0,
+        "prediction": 100.00395444304355
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 3,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 4,
+        "Price": 198.0,
+        "prediction": 101.39898088926368
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 3,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 6,
+        "Price": 150.0,
+        "prediction": 107.1862779469424
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 4,
+        "Color_id": 1,
+        "Size_id": 1,
+        "Material_id": 4,
+        "Price": 101.0,
+        "prediction": 112.4997108370723
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 91.0,
+        "prediction": 104.28137831844484
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 4,
+        "Color_id": 5,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 107.0,
+        "prediction": 107.85185068936414
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 5,
+        "Color_id": 2,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 82.0,
+        "prediction": 105.10852054068896
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 5,
+        "Color_id": 3,
+        "Size_id": 6,
+        "Material_id": 1,
+        "Price": 150.0,
+        "prediction": 99.80197682594057
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 92.0,
+        "prediction": 112.55925549741724
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 1,
+        "Price": 188.0,
+        "prediction": 109.56675660785672
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 5,
+        "Color_id": 6,
+        "Size_id": 3,
+        "Material_id": 1,
+        "Price": 36.0,
+        "prediction": 100.8789961657535
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 5,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 3,
+        "Price": 177.0,
+        "prediction": 103.40704160925127
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 6,
+        "Color_id": 1,
+        "Size_id": 6,
+        "Material_id": 4,
+        "Price": 17.0,
+        "prediction": 97.88831216278484
+      },
+      {
+        "Brand_id": 5,
+        "Category_id": 6,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 6,
+        "Price": 196.0,
+        "prediction": 100.68552169557552
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 2,
+        "Size_id": 3,
+        "Material_id": 4,
+        "Price": 71.0,
+        "prediction": 102.34258965791584
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 3,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 96.0,
+        "prediction": 105.19579188806149
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 2,
+        "Price": 175.0,
+        "prediction": 106.39337366172569
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 4,
+        "Size_id": 3,
+        "Material_id": 3,
+        "Price": 190.0,
+        "prediction": 104.020935267603
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 195.0,
+        "prediction": 101.57465433429944
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 6,
+        "Price": 87.0,
+        "prediction": 95.07168258376845
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 1,
+        "Color_id": 6,
+        "Size_id": 5,
+        "Material_id": 3,
+        "Price": 168.0,
+        "prediction": 102.33388606692053
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 2,
+        "Size_id": 4,
+        "Material_id": 2,
+        "Price": 53.0,
+        "prediction": 103.2996755539341
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 2,
+        "Size_id": 4,
+        "Material_id": 4,
+        "Price": 72.0,
+        "prediction": 97.92065653178314
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 1,
+        "Material_id": 1,
+        "Price": 44.0,
+        "prediction": 99.57903126744979
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 4,
+        "Size_id": 4,
+        "Material_id": 6,
+        "Price": 110.0,
+        "prediction": 95.65324229753705
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 5,
+        "Size_id": 2,
+        "Material_id": 1,
+        "Price": 67.0,
+        "prediction": 97.87131059611269
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 5,
+        "Price": 196.0,
+        "prediction": 104.04714235551987
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 2,
+        "Color_id": 6,
+        "Size_id": 1,
+        "Material_id": 3,
+        "Price": 97.0,
+        "prediction": 92.69718703180648
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 3,
+        "Color_id": 1,
+        "Size_id": 4,
+        "Material_id": 1,
+        "Price": 13.0,
+        "prediction": 106.9888904209359
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 3,
+        "Color_id": 2,
+        "Size_id": 6,
+        "Material_id": 4,
+        "Price": 110.0,
+        "prediction": 99.91420051853217
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 3,
+        "Color_id": 3,
+        "Size_id": 5,
+        "Material_id": 3,
+        "Price": 72.0,
+        "prediction": 97.13465213696539
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 3,
+        "Color_id": 6,
+        "Size_id": 1,
+        "Material_id": 5,
+        "Price": 10.0,
+        "prediction": 87.18200956691201
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 4,
+        "Color_id": 1,
+        "Size_id": 1,
+        "Material_id": 3,
+        "Price": 104.0,
+        "prediction": 116.95706159557562
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 4,
+        "Color_id": 1,
+        "Size_id": 3,
+        "Material_id": 1,
+        "Price": 89.0,
+        "prediction": 105.8691452905593
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 2,
+        "Material_id": 3,
+        "Price": 176.0,
+        "prediction": 105.47874832575201
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 4,
+        "Color_id": 2,
+        "Size_id": 6,
+        "Material_id": 6,
+        "Price": 51.0,
+        "prediction": 115.45899267295572
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 4,
+        "Color_id": 4,
+        "Size_id": 5,
+        "Material_id": 4,
+        "Price": 158.0,
+        "prediction": 96.53573461963055
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 5,
+        "Color_id": 2,
+        "Size_id": 5,
+        "Material_id": 1,
+        "Price": 158.0,
+        "prediction": 111.68530759738421
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 5,
+        "Color_id": 4,
+        "Size_id": 4,
+        "Material_id": 4,
+        "Price": 177.0,
+        "prediction": 100.52031387392508
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 3,
+        "Price": 188.0,
+        "prediction": 105.6369821512075
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 5,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 3,
+        "Price": 61.0,
+        "prediction": 111.87891045919352
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 6,
+        "Color_id": 1,
+        "Size_id": 6,
+        "Material_id": 5,
+        "Price": 45.0,
+        "prediction": 116.83973787948851
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 6,
+        "Color_id": 5,
+        "Size_id": 5,
+        "Material_id": 5,
+        "Price": 134.0,
+        "prediction": 98.87407513596293
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 6,
+        "Color_id": 5,
+        "Size_id": 6,
+        "Material_id": 1,
+        "Price": 187.0,
+        "prediction": 127.23384844785775
+      },
+      {
+        "Brand_id": 6,
+        "Category_id": 6,
+        "Color_id": 6,
+        "Size_id": 6,
+        "Material_id": 4,
+        "Price": 42.0,
+        "prediction": 104.83379937814985
+      }
+    ]
+  }
+}
